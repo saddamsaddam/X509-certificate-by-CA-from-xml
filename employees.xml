@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>John Doe</name>
+        <department>Management</department>
+        <salary>50000</salary>
+        <email>john.doe@tfg.com</email>
+        <phone>1234567890</phone>
+        <access>admin</access>
+        <sales>100000</sales>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <department>Sales</department>
+        <salary>60000</salary>
+        <email>jane.smith@tfg.com</email>
+        <phone>9876543210</phone>
+        <access>standard</access>
+        <sales>80000</sales>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Michael Johnson</name>
+        <department>Operation</department>
+        <salary>55000</salary>
+        <email>michael.johnson@tfg.com</email>
+        <phone>5556667777</phone>
+        <access>standard</access>
+        <sales>75000</sales>
+    </employee>
+
+    <!-- Add more employees as needed -->
+</employees>
